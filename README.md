@@ -27,7 +27,7 @@
 
 | Position | What I do |
 |---|---|
-| **Backend Engineer** | Java/Spring Boot 기반 REST API, 인증·인가 도메인, 응답·예외 구조 설계 |
+| **Backend Engineer** | Java/Spring Boot 기반 REST API, 인증·인가 및 결제·구독 도메인, 응답·예외 구조 설계 |
 | **AI Service Developer** | FastAPI 기반 LLM API, Prompt Engineering, 외부 AI(OpenAI·Azure Speech) 연동 |
 
 ---
@@ -48,6 +48,7 @@
 |---|---|
 | **Backend** | Java 21, Spring Boot 3, REST API, Spring Data JPA |
 | **Security** | Spring Security (JWT, OAuth 2.0), Redis Token, Rate Limit |
+| **Payments** | Toss Payments API, 정기결제(빌링), 결제 대사(Reconciliation), 멱등성·동시성 제어 |
 | **AI Service** | Python, FastAPI, OpenAI API, Prompt Engineering, Azure Speech |
 | **Database** | PostgreSQL, MySQL, Redis, ERD Modeling |
 | **Infra / DevOps** | AWS (EC2·S3·RDS), GitHub Actions (CI/CD), 자동 배포·로그 아카이빙 |
@@ -60,7 +61,7 @@
 
 | Project | Summary | My Focus |
 |---|---|---|
-| [CareerWave](https://github.com/maranqian-bot/career-wave) | AI 취업 지원 통합 플랫폼 | 개인·기업 인증 도메인 설계, OAuth·Redis 기반 소셜 로그인, 재직증명서 검증 강화, Port–Adapter 외부 연동 분리 |
+| [CareerWave](https://github.com/maranqian-bot/career-wave) | AI 취업 지원 통합 플랫폼 | **인증** — 개인·기업 인증 도메인 설계, OAuth·Redis 소셜 로그인, 재직증명서 검증 강화<br>**결제·구독** — Toss 정기결제 연동(PG 게이트웨이 추상화 + Mock 주입), 구독 갱신·해지·만료 스케줄러, 결제 대사(reconciliation), 멱등성·동시성 제어 |
 | [LanguageMap](https://github.com/maranqian-bot/languagemap-spring) | 지도 기반 AI 영어 회화 코칭 | GPT Prompt 설계, LLM 응답 JSON Schema 안정화, Azure Speech 발음 평가, **GitHub Actions CI/CD 자동 배포 · AWS(EC2·RDS) 클라우드 배포 · S3 로그 아카이빙** 구축 |
 
 ---
