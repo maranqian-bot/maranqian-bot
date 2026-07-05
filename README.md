@@ -10,12 +10,14 @@
   <img src="https://img.shields.io/badge/PostgreSQL-111827?style=flat-square&logo=postgresql&logoColor=4169E1" />
   <img src="https://img.shields.io/badge/Redis-111827?style=flat-square&logo=redis&logoColor=FF4438" />
   <img src="https://img.shields.io/badge/React-111827?style=flat-square&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/GitHub%20Actions-111827?style=flat-square&logo=githubactions&logoColor=2088FF" />
+  <img src="https://img.shields.io/badge/AWS-111827?style=flat-square&logo=amazonaws&logoColor=FF9900" />
 </p>
 
 <h3 align="center">Backend Engineer · AI Service Developer</h3>
 
 <p align="center">
-  <a href="https://app.notion.com/p/38380642e9d780bba2adfbd4602d562d">Portfolio</a> ·
+  <a href="https://maranqian-bot.github.io/portfolio/">Portfolio</a> ·
   <a href="https://github.com/maranqian-bot">GitHub</a>
 </p>
 
@@ -48,9 +50,10 @@
 | **Security** | Spring Security (JWT, OAuth 2.0), Redis Token, Rate Limit |
 | **AI Service** | Python, FastAPI, OpenAI API, Prompt Engineering, Azure Speech |
 | **Database** | PostgreSQL, MySQL, Redis, ERD Modeling |
+| **Infra / DevOps** | AWS (EC2·S3·RDS), GitHub Actions (CI/CD), 자동 배포·로그 아카이빙 |
 | **Frontend** | React, TypeScript |
 | **Quality** | JUnit5, Mockito, MockMvc, Swagger/OpenAPI |
-| **Collaboration** | Git/GitHub, Notion, Spec-Driven Development |
+| **Collaboration** | Git/GitHub, Discord, Notion, Spec-Driven Development |
 ---
 
 ## Selected Work
@@ -58,7 +61,7 @@
 | Project | Summary | My Focus |
 |---|---|---|
 | [CareerWave](https://github.com/maranqian-bot/career-wave) | AI 취업 지원 통합 플랫폼 | 개인·기업 인증 도메인 설계, OAuth·Redis 기반 소셜 로그인, 재직증명서 검증 강화, Port–Adapter 외부 연동 분리 |
-| [LanguageMap](https://github.com/maranqian-bot/languagemap-spring) | 지도 기반 AI 영어 회화 코칭 | GPT Prompt 설계, LLM 응답 JSON Schema 안정화, Azure Speech 발음 평가, 외부 API 단계별 Fallback |
+| [LanguageMap](https://github.com/maranqian-bot/languagemap-spring) | 지도 기반 AI 영어 회화 코칭 | GPT Prompt 설계, LLM 응답 JSON Schema 안정화, Azure Speech 발음 평가, **GitHub Actions CI/CD 자동 배포 · AWS(EC2·RDS) 클라우드 배포 · S3 로그 아카이빙** 구축 |
 
 ---
 
