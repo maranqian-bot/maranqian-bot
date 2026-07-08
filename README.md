@@ -14,7 +14,7 @@
   <img src="https://img.shields.io/badge/AWS-111827?style=flat-square&logo=amazonaws&logoColor=FF9900" />
 </p>
 
-<h3 align="center">Backend Engineer · AI Service Developer</h3>
+<h3 align="center"Full-stack Engineer · AI Service Developer</h3>
 
 <p align="center">
   <a href="https://maranqian-bot.github.io/portfolio/">Portfolio</a> ·
