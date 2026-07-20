@@ -71,17 +71,17 @@
 <!-- 아래 카드는 GitHub Action(vn7n24fzkq/github-profile-summary-cards)이
      profile-summary-card-output 브랜치에 정적 SVG로 생성합니다. -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/maranqian-bot/maranqian-bot/profile-summary-card-output/tokyonight/0-profile-details.svg" />
+  <img src="https://raw.githubusercontent.com/maranqian-bot/maranqian-bot/main/profile-summary-card-output/tokyonight/0-profile-details.svg" />
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/maranqian-bot/maranqian-bot/profile-summary-card-output/tokyonight/3-stats.svg" />
-  <img src="https://raw.githubusercontent.com/maranqian-bot/maranqian-bot/profile-summary-card-output/tokyonight/1-repos-per-language.svg" />
+  <img src="https://raw.githubusercontent.com/maranqian-bot/maranqian-bot/main/profile-summary-card-output/tokyonight/3-stats.svg" />
+  <img src="https://raw.githubusercontent.com/maranqian-bot/maranqian-bot/main/profile-summary-card-output/tokyonight/1-repos-per-language.svg" />
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/maranqian-bot/maranqian-bot/profile-summary-card-output/tokyonight/2-most-commit-language.svg" />
-  <img src="https://raw.githubusercontent.com/maranqian-bot/maranqian-bot/profile-summary-card-output/tokyonight/4-productive-time.svg" />
+  <img src="https://raw.githubusercontent.com/maranqian-bot/maranqian-bot/main/profile-summary-card-output/tokyonight/2-most-commit-language.svg" />
+  <img src="https://raw.githubusercontent.com/maranqian-bot/maranqian-bot/main/profile-summary-card-output/tokyonight/4-productive-time.svg" />
 </p>
 
 <p align="center">
