@@ -20,3 +20,7 @@ jobs:
         with:
           USERNAME: ${{ github.repository_owner }}
           UTC_OFFSET: 9
+          # main 오염 방지를 위해 전용 브랜치에 카드 생성
+          BRANCH_NAME: profile-summary-card-output
+          # README가 tokyonight만 참조하므로 해당 테마만 생성
+          THEME: tokyonight
