@@ -14,7 +14,7 @@
   <img src="https://img.shields.io/badge/AWS-111827?style=flat-square&logo=amazonaws&logoColor=FF9900" />
 </p>
 
-<h3 align="center"Full-stack Engineer · AI Service Developer</h3>
+<h3 align="center">Full-stack Engineer · AI Service Developer</h3>
 
 <p align="center">
   <a href="https://maranqian-bot.github.io/portfolio/">Portfolio</a> ·
@@ -68,12 +68,24 @@
 
 ## GitHub Activity
 
+<!-- 아래 카드는 GitHub Action(vn7n24fzkq/github-profile-summary-cards)이
+     profile-summary-card-output 브랜치에 정적 SVG로 생성합니다. -->
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=maranqian-bot&theme=tokyonight&hide_border=true" height="180" />
+  <img src="https://raw.githubusercontent.com/maranqian-bot/maranqian-bot/profile-summary-card-output/tokyonight/0-profile-details.svg" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=maranqian-bot&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Activity&bg_color=1a1b27&color=a9fef7&line=b6e3f4&point=ffffff" />
+  <img src="https://raw.githubusercontent.com/maranqian-bot/maranqian-bot/profile-summary-card-output/tokyonight/3-stats.svg" />
+  <img src="https://raw.githubusercontent.com/maranqian-bot/maranqian-bot/profile-summary-card-output/tokyonight/1-repos-per-language.svg" />
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/maranqian-bot/maranqian-bot/profile-summary-card-output/tokyonight/2-most-commit-language.svg" />
+  <img src="https://raw.githubusercontent.com/maranqian-bot/maranqian-bot/profile-summary-card-output/tokyonight/4-productive-time.svg" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=maranqian-bot&theme=tokyonight&hide_border=true" height="180" />
 </p>
 
 ---
