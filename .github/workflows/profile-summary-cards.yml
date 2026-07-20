@@ -22,18 +22,3 @@ jobs:
           UTC_OFFSET: 9
           # README가 tokyonight만 참조하므로 해당 테마만 생성 (main 클러터 최소화)
           THEME: tokyonight
-
-      # 매일 재생성되는 카드의 배경/테두리를 투명 처리 (라이트·다크 양쪽에서 GitHub 배경과 어울리도록)
-      - name: Make card background & border transparent
-        run: |
-          changed=0
-          for f in profile-summary-card-output/tokyonight/*.svg; do
-            sed -i 's|stroke="#1a1b27" stroke-width="1" fill="#1a1b27" stroke-opacity="1"|stroke="transparent" stroke-width="1" fill="transparent" stroke-opacity="1"|g' "$f"
-          done
-          if ! git diff --quiet -- profile-summary-card-output/tokyonight; then
-            git config user.name "github-actions[bot]"
-            git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-            git add profile-summary-card-output/tokyonight/*.svg
-            git commit -m "style(cards): 배경·테두리 투명 처리"
-            git push
-          fi
