@@ -69,7 +69,7 @@
 ## GitHub Activity
 
 <!-- 아래 카드는 GitHub Action(vn7n24fzkq/github-profile-summary-cards)이
-     profile-summary-card-output 브랜치에 정적 SVG로 생성합니다. -->
+     main:profile-summary-card-output/ 아래 정적 SVG로 매일 자동 생성합니다. -->
 <p align="center">
   <img src="https://raw.githubusercontent.com/maranqian-bot/maranqian-bot/main/profile-summary-card-output/tokyonight/0-profile-details.svg" />
 </p>
