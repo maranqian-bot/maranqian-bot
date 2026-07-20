@@ -75,6 +75,10 @@
 </p>
 
 <p align="center">
+  <img src="https://streak-stats.demolab.com?user=maranqian-bot&theme=tokyonight&hide_border=true&card_width=700" />
+</p>
+
+<p align="center">
   <img src="https://raw.githubusercontent.com/maranqian-bot/maranqian-bot/main/profile-summary-card-output/tokyonight/3-stats.svg" />
   <img src="https://raw.githubusercontent.com/maranqian-bot/maranqian-bot/main/profile-summary-card-output/tokyonight/1-repos-per-language.svg" />
 </p>
@@ -82,10 +86,6 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/maranqian-bot/maranqian-bot/main/profile-summary-card-output/tokyonight/2-most-commit-language.svg" />
   <img src="https://raw.githubusercontent.com/maranqian-bot/maranqian-bot/main/profile-summary-card-output/tokyonight/4-productive-time.svg" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=maranqian-bot&theme=tokyonight&hide_border=true" height="180" />
 </p>
 
 ---
