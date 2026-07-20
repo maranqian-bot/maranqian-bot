@@ -75,7 +75,7 @@
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=maranqian-bot&theme=tokyonight&hide_border=true&card_width=700" />
+  <img src="https://streak-stats.demolab.com?user=maranqian-bot&theme=tokyonight&hide_border=true&card_width=700&background=00000000" />
 </p>
 
 <p align="center">
