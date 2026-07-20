@@ -69,8 +69,11 @@
 ## GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=maranqian-bot&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&count_private=true" height="165" />
-  <img src="https://streak-stats.demolab.com?user=maranqian-bot&theme=tokyonight&hide_border=true" height="165" />
+  <img src="https://streak-stats.demolab.com?user=maranqian-bot&theme=tokyonight&hide_border=true" height="180" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=maranqian-bot&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Activity&bg_color=1a1b27&color=a9fef7&line=b6e3f4&point=ffffff" />
 </p>
 
 ---
